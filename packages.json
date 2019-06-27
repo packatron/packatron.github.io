@@ -1,0 +1,18 @@
+{
+  "packages": {
+    "wp-quality/ads-made-simple": {
+      "0.0.1": {
+        "name": "wp-quality/ads-made-simple",
+        "type": "wordpress-plugin",
+        "version": "0.0.1",
+        "dist": {
+          "url": "https://github.com/wp-quality/ads-made-simple/archive/0.0.1.zip",
+          "type": "zip"
+        },
+        "require": {
+          "composer/installers": "^1.5"
+        }
+      }
+    }
+  }
+}
