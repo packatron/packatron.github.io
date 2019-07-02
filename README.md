@@ -8,11 +8,11 @@
     "repositories":[
         {
             "type":"composer",
-            "url":"https://wp-quality.github.io"
+            "url":"https://wpregistry.github.io"
         }
     ],
     "require": {
-        "wp-quality/ads-made-simple": "*"
+        "wpregistry/ads-made-simple": "*"
     }
 }
 ```
