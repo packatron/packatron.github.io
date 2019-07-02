@@ -1,4 +1,4 @@
-# wp-quality.github.io
+# wpregistry.github.io
 
 
 ```json
