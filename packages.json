@@ -6,7 +6,7 @@
         "type": "wordpress-plugin",
         "version": "0.0.1",
         "dist": {
-          "url": "https://wp-quality.github.io/ads-made-simple/dist/archive/ads-made-simple-0.0.1.zip",
+          "url": "https://wp-quality.github.io/ads-made-simple/dist/ads-made-simple-0.0.1.zip",
           "type": "zip"
         },
         "require": {
