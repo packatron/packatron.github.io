@@ -1,4 +1,4 @@
-# wpregistry.github.io
+# packatron.github.io
 
 
 ```json
@@ -7,12 +7,12 @@
     "description": "My Quality WordPress site",
     "repositories":[
         {
-            "type":"composer",
-            "url":"https://wpregistry.github.io"
+            "type": "composer",
+            "url": "https://packatron.github.io"
         }
     ],
     "require": {
-        "wpregistry/ads-made-simple": "*"
+        "packatron/ads-made-simple": "*"
     }
 }
 ```
