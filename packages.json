@@ -1,12 +1,12 @@
 {
   "packages": {
-    "wpregistry/ads-made-simple": {
+    "packatron/ads-made-simple": {
       "0.0.1": {
-        "name": "wpregistry/ads-made-simple",
+        "name": "packatron/ads-made-simple",
         "type": "wordpress-plugin",
         "version": "0.0.1",
         "dist": {
-          "url": "https://wpregistry.github.io/ads-made-simple/dist/ads-made-simple-0.0.1.zip",
+          "url": "https://packatron.github.io/ads-made-simple/dist/ads-made-simple-0.0.1.zip",
           "type": "zip"
         },
         "require": {
